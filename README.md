@@ -1,4 +1,4 @@
-#№ Test-assignment-for-interns
+## Test-assignment-for-interns
 
 ### Main.py
 Сделали работу Main.py корректной
